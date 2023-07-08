@@ -791,13 +791,4 @@
 "name": "Rollux",
 "coingecko_asset_platform_id": "rollux"
 }
-}
-],
-"links": {
-"first": "https://api.geckoterminal.com/api/v2/networks?page=1",
-"prev": null,
-"next": null,
-"last": "https://api.geckoterminal.com/api/v2/networks?page=1"
-}
-}
 
